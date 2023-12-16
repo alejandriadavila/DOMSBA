@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #5EB1BF;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+p{
+    text-align: left;
+}
+
+div{
+    padding: 5px;
+}
